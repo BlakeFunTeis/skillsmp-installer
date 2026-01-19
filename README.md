@@ -47,7 +47,7 @@ Restart Codex to pick up the new skill.
 
 ### Usage
 
-1. Set `SKILL_MAP_API_KEY` in your environment ([SkillsMP API key](https://skillsmp.com/docs/api)).
+1. Set `SKILL_MAP_API_KEY` in your environment ([SkillsSMP API key](https://skillsmp.com/docs/api)).
 2. Run `$skillsmp-installer` in Codex CLI and provide a search query.
 3. Choose a skill from the results to install.
 4. Restart Codex after installation.
