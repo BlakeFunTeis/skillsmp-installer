@@ -1,4 +1,4 @@
-# SkillsMP Installer
+# SkillsSMP Installer
 
 ## 中文
 
