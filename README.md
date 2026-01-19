@@ -14,7 +14,7 @@ $skill-installer https://github.com/BlakeFunTeis/skillsmp-installer
 
 ### 使用方式
 
-1. 在環境變數中設定 `SKILL_MAP_API_KEY`（SkillsSMP 的 API key）。
+1. 在環境變數中設定 `SKILL_MAP_API_KEY`（[SkillsSMP 的 API key](https://skillsmp.com/docs/api)）。
 2. 在 Codex CLI 輸入 `$skillsmp-installer` 並提供搜尋關鍵字。
 3. 從結果中選擇要安裝的技能。
 4. 安裝完成後重新啟動 Codex。
