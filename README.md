@@ -7,7 +7,7 @@
 使用 Codex CLI 安裝此技能：
 
 ```sh
-$skill-installer https://github.com/BlakeFunTeis/skillsmp-installer
+$skill-installer https://github.com/BlakeFunTeis/skillsmp-installer/tree/main
 ```
 
 安裝完成後請重新啟動 Codex。
@@ -40,7 +40,7 @@ This skill lets you search SkillsMP for skills and install them into Codex.
 Install this skill using the Codex CLI:
 
 ```sh
-$skill-installer https://github.com/BlakeFunTeis/skillsmp-installer
+$skill-installer https://github.com/BlakeFunTeis/skillsmp-installer/tree/main
 ```
 
 Restart Codex to pick up the new skill.
