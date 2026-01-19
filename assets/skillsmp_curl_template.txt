@@ -1,0 +1,17 @@
+curl -sS --compressed --http1.1 --location \
+  --request GET \
+  --url "https://skillsmp.com/api/v1/skills/ai-search" \
+  --get --data-urlencode "q=How to create a web scraper" \
+  -H "Authorization: Bearer ${SKILL_MAP_API_KEY}" \
+  -H "Accept: application/json, text/plain, */*" \
+  -H "Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7" \
+  -H "Cache-Control: no-cache" \
+  -H "Pragma: no-cache" \
+  -H "Connection: keep-alive" \
+  -H "Referer: https://skillsmp.com/" \
+  -H "Origin: https://skillsmp.com" \
+  -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" \
+  -H "Sec-Fetch-Dest: empty" \
+  -H "Sec-Fetch-Mode: cors" \
+  -H "Sec-Fetch-Site: same-origin" \
+  -H "DNT: 1"
